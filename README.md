@@ -33,9 +33,6 @@ My focus is on creating scalable web applications, automating repetitive tasks, 
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🌆 GitHub Skyline
-[View My GitHub Skyline](https://skyline.github.com/)
-
 # 📈 Contribution Graph
 [![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshkmr&theme=github-compact)](https://github.com/arshkmr)
 
