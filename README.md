@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer at XTEN-AV INDIA with experience in developing internal business applications, workflow automation tools, and database-driven solutions. Beginning my career in data management and business operations gave me a strong understanding of real-world processes, which I now leverage to build practical software solutions using Python, Django, PostgreSQL, JavaScript, and WordPress.
+I am a Full Stack Developer with experience in developing internal business applications, workflow automation tools, and database-driven solutions. Beginning my career in data management and business operations gave me a strong understanding of real-world processes, which I now leverage to build practical software solutions using Python, Django, PostgreSQL, JavaScript, and WordPress.
 
 My focus is on creating scalable web applications, automating repetitive tasks, optimizing workflows, and developing tools that improve operational efficiency and business productivity.
 
