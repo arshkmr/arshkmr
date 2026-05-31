@@ -32,10 +32,9 @@ My focus is on creating scalable web applications, automating repetitive tasks, 
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=arshkmr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=arshkmr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arshkmr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 📈 Contribution Graph
+[![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arshkmr&theme=github-compact)](https://github.com/arshkmr)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
